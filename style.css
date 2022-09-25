@@ -1,4 +1,11 @@
 * {
-  color: aquamarine;
+  color: rgb(7, 27, 21);
   background-color: bisque;
+}
+div {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color: blueviolet;
+  top: 150px;
 }
